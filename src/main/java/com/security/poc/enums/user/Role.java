@@ -1,11 +1,10 @@
-package com.security.poc.user;
+package com.security.poc.enums.user;
 
 /**
  * @author by Danyal
  * @classname Role
- * @Date 28/10/2023 12:34 am
+ * @Date 28/10/2023 7:38 pm
  */
 public enum Role {
-
   USER
 }

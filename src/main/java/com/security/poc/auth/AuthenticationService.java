@@ -2,7 +2,7 @@ package com.security.poc.auth;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.security.poc.config.JwtService;
-import com.security.poc.user.Role;
+import com.security.poc.enums.user.Role;
 import com.security.poc.user.User;
 import com.security.poc.user.UserRepository;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,5 +1,6 @@
 package com.security.poc.user;
 
+import com.security.poc.enums.user.Role;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
